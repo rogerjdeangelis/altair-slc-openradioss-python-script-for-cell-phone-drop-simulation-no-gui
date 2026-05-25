@@ -68,7 +68,10 @@ Summary Tables (Too large to save in github - see below for descriptions of the 
    8 vkthdf to csv
    9 vkthdf stress strain tensor tables
   10 Vtk to mp4
-
+  
+ For macros see
+ https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories
+ 
 Related Repos
 https://github.com/rogerjdeangelis/utl-altair-slc-enhanced-openradioss-tensile-strength-simulation-python-no-gui-no-mouse-surfing
 https://github.com/rogerjdeangelis/utl-altair-slc-python-script-to-run-openradioss-tensile-strength-simulation
